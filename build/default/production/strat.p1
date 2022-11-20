@@ -1,0 +1,165 @@
+Version 4.0 HI-TECH Software Intermediate Code
+"55 C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 55: __asm("INDF equ 00h");
+[; <" INDF equ 00h ;# ">
+"62
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 62: __asm("TMR0 equ 01h");
+[; <" TMR0 equ 01h ;# ">
+"69
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 69: __asm("PCL equ 02h");
+[; <" PCL equ 02h ;# ">
+"76
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 76: __asm("STATUS equ 03h");
+[; <" STATUS equ 03h ;# ">
+"162
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 162: __asm("FSR equ 04h");
+[; <" FSR equ 04h ;# ">
+"169
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 169: __asm("PORTA equ 05h");
+[; <" PORTA equ 05h ;# ">
+"219
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 219: __asm("PORTC equ 07h");
+[; <" PORTC equ 07h ;# ">
+"269
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 269: __asm("PCLATH equ 0Ah");
+[; <" PCLATH equ 0Ah ;# ">
+"289
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 289: __asm("INTCON equ 0Bh");
+[; <" INTCON equ 0Bh ;# ">
+"367
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 367: __asm("PIR1 equ 0Ch");
+[; <" PIR1 equ 0Ch ;# ">
+"450
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 450: __asm("TMR1 equ 0Eh");
+[; <" TMR1 equ 0Eh ;# ">
+"457
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 457: __asm("TMR1L equ 0Eh");
+[; <" TMR1L equ 0Eh ;# ">
+"464
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 464: __asm("TMR1H equ 0Fh");
+[; <" TMR1H equ 0Fh ;# ">
+"471
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 471: __asm("T1CON equ 010h");
+[; <" T1CON equ 010h ;# ">
+"542
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 542: __asm("TMR2 equ 011h");
+[; <" TMR2 equ 011h ;# ">
+"549
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 549: __asm("T2CON equ 012h");
+[; <" T2CON equ 012h ;# ">
+"620
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 620: __asm("CCPR1 equ 013h");
+[; <" CCPR1 equ 013h ;# ">
+"627
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 627: __asm("CCPR1L equ 013h");
+[; <" CCPR1L equ 013h ;# ">
+"634
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 634: __asm("CCPR1H equ 014h");
+[; <" CCPR1H equ 014h ;# ">
+"641
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 641: __asm("CCP1CON equ 015h");
+[; <" CCP1CON equ 015h ;# ">
+"723
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 723: __asm("PWM1CON equ 016h");
+[; <" PWM1CON equ 016h ;# ">
+"793
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 793: __asm("ECCPAS equ 017h");
+[; <" ECCPAS equ 017h ;# ">
+"875
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 875: __asm("WDTCON equ 018h");
+[; <" WDTCON equ 018h ;# ">
+"928
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 928: __asm("CMCON0 equ 019h");
+[; <" CMCON0 equ 019h ;# ">
+"998
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 998: __asm("CMCON1 equ 01Ah");
+[; <" CMCON1 equ 01Ah ;# ">
+"1024
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 1024: __asm("ADRESH equ 01Eh");
+[; <" ADRESH equ 01Eh ;# ">
+"1031
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 1031: __asm("ADCON0 equ 01Fh");
+[; <" ADCON0 equ 01Fh ;# ">
+"1121
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 1121: __asm("OPTION_REG equ 081h");
+[; <" OPTION_REG equ 081h ;# ">
+"1191
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 1191: __asm("TRISA equ 085h");
+[; <" TRISA equ 085h ;# ">
+"1241
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 1241: __asm("TRISC equ 087h");
+[; <" TRISC equ 087h ;# ">
+"1291
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 1291: __asm("PIE1 equ 08Ch");
+[; <" PIE1 equ 08Ch ;# ">
+"1374
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 1374: __asm("PCON equ 08Eh");
+[; <" PCON equ 08Eh ;# ">
+"1428
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 1428: __asm("OSCCON equ 08Fh");
+[; <" OSCCON equ 08Fh ;# ">
+"1493
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 1493: __asm("OSCTUNE equ 090h");
+[; <" OSCTUNE equ 090h ;# ">
+"1545
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 1545: __asm("ANSEL equ 091h");
+[; <" ANSEL equ 091h ;# ">
+"1607
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 1607: __asm("PR2 equ 092h");
+[; <" PR2 equ 092h ;# ">
+"1614
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 1614: __asm("WPUA equ 095h");
+[; <" WPUA equ 095h ;# ">
+"1619
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 1619: __asm("WPU equ 095h");
+[; <" WPU equ 095h ;# ">
+"1768
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 1768: __asm("IOCA equ 096h");
+[; <" IOCA equ 096h ;# ">
+"1773
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 1773: __asm("IOC equ 096h");
+[; <" IOC equ 096h ;# ">
+"1942
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 1942: __asm("VRCON equ 099h");
+[; <" VRCON equ 099h ;# ">
+"2002
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 2002: __asm("EEDAT equ 09Ah");
+[; <" EEDAT equ 09Ah ;# ">
+"2007
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 2007: __asm("EEDATA equ 09Ah");
+[; <" EEDATA equ 09Ah ;# ">
+"2040
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 2040: __asm("EEADR equ 09Bh");
+[; <" EEADR equ 09Bh ;# ">
+"2047
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 2047: __asm("EECON1 equ 09Ch");
+[; <" EECON1 equ 09Ch ;# ">
+"2085
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 2085: __asm("EECON2 equ 09Dh");
+[; <" EECON2 equ 09Dh ;# ">
+"2092
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 2092: __asm("ADRESL equ 09Eh");
+[; <" ADRESL equ 09Eh ;# ">
+"2099
+[; ;C:\Program Files\Microchip\xc8\v2.40\pic\include\proc\pic16f684.h: 2099: __asm("ADCON1 equ 09Fh");
+[; <" ADCON1 equ 09Fh ;# ">
+"9 ./config.h
+[p x FOSC  =  INTOSCCLK  ]
+"10
+[p x WDTE  =  OFF  ]
+"11
+[p x PWRTE  =  ON  ]
+"12
+[p x BOREN  =  OFF   ]
+"13
+[p x CPD  =  OFF   ]
+"14
+[p x CP  =  OFF  ]
+"15
+[p x MCLRE  =  ON ]
+"16
+[p x FCMEN    =  OFF ]
+"17
+[p x CPD  =  OFF  ]
+"18
+[p x IESO    =  OFF ]
